@@ -1,0 +1,11 @@
+# pixi environments
+.pixi/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editors and OS
+.ipynb_checkpoints/
+.DS_Store

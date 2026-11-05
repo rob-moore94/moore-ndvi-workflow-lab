@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "neon_sites",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "SJER", "full_name": "San Joaquin Experimental Range", "note": "Approximately 1 km x 1 km box centered on the NEON tower" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -119.73792, 37.10428 ], [ -119.72664, 37.10428 ], [ -119.72664, 37.11328 ], [ -119.73792, 37.11328 ], [ -119.73792, 37.10428 ] ] ] } },
+{ "type": "Feature", "properties": { "name": "HARV", "full_name": "Harvard Forest", "note": "Approximately 1 km x 1 km box centered on the NEON tower" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -72.17876, 42.53241 ], [ -72.16654, 42.53241 ], [ -72.16654, 42.54141 ], [ -72.17876, 42.54141 ], [ -72.17876, 42.53241 ] ] ] } }
+]
+}
